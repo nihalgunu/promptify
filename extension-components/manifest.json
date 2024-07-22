@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Chatbot Extension",
+    "name": "Promptify",
     "version": "1.0",
-    "description": "A Chrome extension chatbot using a Hugging Face model.",
+    "description": "Quickly get effective prompts to use with artificial intelligence models.",
     "permissions": ["activeTab"],
     "action": {
       "default_popup": "popup.html"

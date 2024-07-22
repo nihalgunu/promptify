@@ -1,7 +1,3 @@
-# pip python3 -m venv promptify-env
-# source promptify-env/bin/activate
-# pip install -r requirements.txt
-
 from flask import Flask, request, jsonify
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 

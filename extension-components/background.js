@@ -1,3 +1,3 @@
 chrome.runtime.onInstalled.addListener(() => {
-    console.log('Chatbot Extension installed.');
+    console.log('Promptify Extension installed.');
 });
